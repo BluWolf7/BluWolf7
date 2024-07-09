@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BluWolf7
-- 🌱 currently learning Java SpringBoot & Python Django
+- 🌱 learning Java SpringBoot & Python Django
 - 💞️ looking to collaborate on any development activity
 - 📫 How to reach me: arj4c3@gmail.com
 
